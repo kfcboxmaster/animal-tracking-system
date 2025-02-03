@@ -1,0 +1,35 @@
+# Flutter & Dart related
+.dart_tool/
+.idea/
+.vscode/
+build/
+ios/Pods/
+pubspec.lock
+
+# Flutter dependencies
+**/GeneratedPluginRegistrant.java
+**/GeneratedPluginRegistrant.swift
+
+# Web related
+web/.dart_tool/
+web/.firebase/
+
+# Mac & Linux builds
+macos/Pods/
+linux/flutter/
+windows/flutter/
+
+# Personal user settings
+*.iml
+*.log
+*.swp
+*.swo
+*.DS_Store
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android build-related
+android/.cxx/
+android/app/debug.keystore
+android/app/google-services.json
